@@ -16,7 +16,7 @@ namespace Calcular
 
         public static int Multiplicacion(int num1, int num2)
         {
-            int multiplicacion = num1 + num2;
+            int multiplicacion = num1 * num2;
             return (multiplicacion);
         }
     }
